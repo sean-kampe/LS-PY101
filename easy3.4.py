@@ -4,7 +4,7 @@ def stringy(num):
     checker = '1'
     new_string = ''
     for element in range(num):
-        new_string = new_string + checker
+        new_string += checker
         if checker == '1':
             checker = '0'
         else:
