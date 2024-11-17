@@ -23,3 +23,6 @@ import math
 nan = float('nan')
 print(math.isnan(nan))
 
+# paper!
+# False!
+# True!
